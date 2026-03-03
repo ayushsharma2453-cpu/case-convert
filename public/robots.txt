@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https:https://case-convert.onrender.com/sitemap.xml
