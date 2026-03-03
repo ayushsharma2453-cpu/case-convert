@@ -1,0 +1,14 @@
+{
+  "name": "case-converter",
+  "version": "1.0.0",
+  "description": "Online Case Converter Tool",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ayush Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
